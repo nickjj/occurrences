@@ -1,7 +1,7 @@
 {
   "name": "occurrences",
-  "version": "0.0.1",
-  "description": "Count the occurrences of a substring within a string.",
+  "version": "0.0.2",
+  "description": "Count the occurrences of a substring within a string and keep track of each occurrence's position.",
   "author": "Nick Janetakis <nick.janetakis@gmail.com>",
   "keywords": [
     "occurrences",
