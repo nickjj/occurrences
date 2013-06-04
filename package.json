@@ -1,0 +1,28 @@
+{
+  "name": "occurrences",
+  "version": "0.0.1",
+  "description": "Count the occurrences of a substring within a string.",
+  "author": "Nick Janetakis <nick.janetakis@gmail.com>",
+  "keywords": [
+    "occurrences",
+    "count",
+    "string",
+    "substring"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickjj/occurrences.git"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "optionalDependencies": {}
+}
