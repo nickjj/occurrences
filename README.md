@@ -1,4 +1,4 @@
-# <a href="#occurrences" name="occurrences">Occurrences</a> [![Build Status](https://secure.travis-ci.org/nickjj/occurrences.png)](http://travis-ci.org/nickjj/occurrences)
+# <a href="#occurrences" name="occurrences">Occurrences</a> [![Build Status](https://travis-ci.org/nickjj/occurrences.svg?branch=master)](http://travis-ci.org/nickjj/occurrences)
 
 Count the occurrences of a substring within a string and keep track of each occurrence's position.
 
